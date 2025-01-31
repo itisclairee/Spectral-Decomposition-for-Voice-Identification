@@ -7,10 +7,11 @@ Unlabeled voice registrations serve as input for a model designed to identify di
 
 ## Dataset
 
-The dataset used in this project was sourced from the OpenSLR project at the following link: [OpenSLR Dataset](https://www.openslr.org/45/). It was uploaded by the Surfingtech Company, which extracted it from a larger private dataset. The dataset consists of short audio samples for 10 speakers, with approximately 350 recordings per speaker in .wav format. To optimize computational efficiency, a subset of the dataset was used:
+The dataset used in this project was sourced from the OpenSLR project at the following link: [OpenSLR Dataset](https://www.openslr.org/45/). It was uploaded by the Surfingtech Company, which extracted it from a larger private dataset. The dataset consists of short audio samples for 10 speakers, with approximately 350 recordings per speaker in .wav format. 
+To optimize computational efficiency, a subset of the dataset was used:
 
-Training set: The first 20 recordings per speaker (totaling 200 training samples).
-Testing set: The next 5 recordings per speaker (totaling 50 testing samples).
+- Training set: The first 20 recordings per speaker (totaling 200 training samples).
+- Testing set: The next 5 recordings per speaker (totaling 50 testing samples).
 
 ## Methodology
 
