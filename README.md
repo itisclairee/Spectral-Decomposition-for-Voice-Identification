@@ -1,5 +1,9 @@
 # Spectral-Decomposition-for-Voice-Identification
 
+## Description
+In the Density_Estimation_Project.pdf file there is our exposition of the theoritical basis about gaussian mixture models and in the EM_algorithm_from_scratch.ipynb file there is its application.
+All the other files are about out project.
+
 ## Overview
 
 Text Independent Speaker Identification is the task of identifying and separating individual speakers in a given audio sample. This technique is widely used in various fields, including banking and home security services, as a means of verifying user identity beyond traditional methods.
